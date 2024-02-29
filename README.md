@@ -12,6 +12,8 @@ O meu primeiro repositório de Mauro.
 | Bolseiros|sdkdsnkf|
 
 
+![Gráfico dos numeros da UC](/imagens/)
+
 ##Acerca
 Este repositório foi feito por Mauro no [workshope de Introdução do Github](https://www.record.pt/).
 
